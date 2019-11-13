@@ -1,0 +1,22 @@
+360 # 360应用平台 
+wandoujia # 豌豆荚 
+baidu # 百度手机助手 
+tencent # 腾讯应用宝 
+xiaomi # 小米 
+huawei # 华为 
+oppo # OPPO 
+vivo # VIVO 
+meizu # 魅族应用市场 
+gdt01 # 广点通 
+yeting # 夜听平台 
+samsung # 三星 
+pp # pp助手 
+yetingmusic # 夜听音乐栏目 
+yuluzhushou  # 语录助手 
+guangdiantongb # 腾讯广点通B侧 
+guangdiantonga # 腾讯广点通A侧 
+yetingtop # 夜听头条 
+follow # 关注后对话框跳转 
+gdt_ty # 广点通天游 
+miniapp_tatahui #她他会小程序 
+kwai # 快手 
